@@ -7,7 +7,6 @@ Professionally, I am a technology director & developer based in the NYC area. I 
   - 🔬 Labs: https://www.gregoryvarghese.com/labs/
   - 📷 My photography blog: https://gregv.photography/
   - 📨 LinkedIn: https://www.linkedin.com/in/gregoryvarghese/ 
-  - 📨 LinkedIn: https://www.linkedin.com/in/gregoryvarghese/ 
 
 <!---
 gregvarghese/gregvarghese is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
